@@ -1,4 +1,9 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Presentation Slide for キチピー リジェクトコン【非公式】
+
+Event Page:
+https://connpass.com/event/363351/
+
+## Usage
 
 To start the slide show:
 
