@@ -1,7 +1,7 @@
 ---
 theme: seriph
 background: https://cover.sli.dev
-title: My Presentation Template
+title: 独立系中堅SIerのリードエンジニアから事業会社のテクニカルPdMになった話
 class: text-center
 drawings:
   persist: false
@@ -11,9 +11,11 @@ hideInToc: true
 lineNumbers: true
 ---
 
-# My Presentation Template
+## 独立系中堅SIerのリードエンジニアから<br>事業会社のテクニカルPdMになった話
 
-20yy/mm/dd presentation for XXXX
+<br>
+
+2025/09/04 presentation for キチピー リジェクトコン【非公式】
 
 @kazu_kichi_67
 
