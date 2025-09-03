@@ -50,11 +50,11 @@ hideInToc: true
 layout: section
 ---
 
-# Section1
+# Technical Product Manager？
 
 ---
 
-## List Sample
+## Product Manager
 
 ***
 
@@ -62,9 +62,41 @@ layout: section
 
 <v-clicks>
 
-- aaa
-- bbb
-- ccc
+- 大前提、会社によって全然違う
+- 組織フェーズによっても違う
+  - 0→1?
+  - 1→10?
+  - 10→100?
+- プロダクトの性質によっても違う
+  - ECサイト?
+  - SaaS?
+
+</v-clicks>
+
+<style>
+  ul {
+    font-size: 18pt;
+  }
+</style>
+
+---
+hideInToc: true
+---
+
+## Product Manager
+
+***
+
+<br>
+
+<v-clicks>
+
+- ゆりかごから墓場まで
+  - BizDev, Designer, Engineer, Marketing, Sales
+- プロダクトに一本筋を通す
+- 短期的な売り上げと中長期的な成長のバランス
+- 各ロールの労働生産性を最大化
+- ビジョンを語り、ストーリーテリングをする
 
 </v-clicks>
 
@@ -76,29 +108,63 @@ layout: section
 
 ---
 
-## Table Sample
+## プロダクトマネジメントトライアングル
 
 ***
 
-Table Sample.
+<br>
 
-|        |                              |
-| ------ | ---------------------------- |
-| AAAAAA | aaa                          |
-| BBB    | bbbbbbbb                     |
-| C      | <kbd>ccccccccccccccccc</kbd> |
+<div>
+<img src="/product-management-triangle.png" class="w-[50%] ml-[10%]"/>
+</div>
+
+参考文献: [プロダクトマネジメントトライアングルと各社の PM の職責と JD](https://tumada.medium.com/product-management-triangle-job-description-d18d1855ef65)
+
+
+---
+
+## Engineering Manager
+
+***
+
+<br>
+
+<div>
+<img src="/engineering-manager.png" class="w-[50%] ml-[10%]"/>
+</div>
+
+参考文献: [エンジニアリングマネージャ/プロダクトマネージャのための知識体系と読書ガイド](https://qiita.com/hirokidaichi/items/95678bb1cef32629c317)
 
 ---
 layout: section
 ---
 
-<div id="highlight-contents">
-highlight!!!
-</div>
+# 強み
+
+---
+hideInToc: true
+---
+
+## 強み
+
+***
+
+<br>
+
+<v-clicks>
+
+- システム理解の深さ
+  - フィジビリティ確認
+- プロジェクトマネジメントの経験
+- コミュニケーションが好き
+- 興味関心
+  - 落ちてるボールは全て拾う
+
+</v-clicks>
 
 <style>
-  #highlight-contents {
-    font-size: 72pt;
+  ul {
+    font-size: 18pt;
   }
 </style>
 
@@ -106,120 +172,53 @@ highlight!!!
 layout: section
 ---
 
-# Section2
+# 弱み
 
 ---
+hideInToc: true
+---
 
-## Code Sample
+## 弱み
 
 ***
 
-code sample.
+<br>
 
-```java {*|3|2-4|1,5|*}
-class HelloWorld {
-	public static void main(String[] args) {
-		System.out.println("Hello, world.");
-	}
-}
-```
+<v-clicks>
+
+- 仕組み化、省力化、委譲
+  - タスクを持ち続けるとパンクする
+- ビジネス理解
+  - 事業のレバーは何か？
+  - なんの数値を追うべきか？
+  - ROIが見合うか？
+- Techを突き詰めたい人には向いてない
+
+</v-clicks>
 
 <style>
-pre.slidev-code {
-    background-color: #1f2020;
-}
+  ul {
+    font-size: 18pt;
+  }
 </style>
 
 ---
 
-## Diagrams Sample
+# まとめ
 
 ***
 
-diagrams sample.
+<br>
 
-<div class="grid grid-cols-4 gap-5 pt-4 -mb-6">
+- Product Managerは楽しい
+- 社内登用 or <span v-mark.red>イベントで現役PdMと話そう</span>
+- <span v-mark.circle.orange>プロダクト</span>が好き、<span v-mark.circle.orange>人</span>が好き、<span v-mark.circle.orange>ハードシングス</span>が好きならPdMの素養あり！
 
-```mermaid {scale: 0.5, alt: 'A simple sequence diagram'}
-sequenceDiagram
-    Alice->John: Hello John, how are you?
-    Note over Alice,John: A typical interaction
-```
-
-```mermaid {theme: 'neutral', scale: 0.8}
-graph TD
-B[Text] --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
-```
-
-```mermaid
-mindmap
-  root((mindmap))
-    Origins
-      Long history
-      ::icon(fa fa-book)
-      Popularisation
-        British popular psychology author Tony Buzan
-    Research
-      On effectiveness<br/>and features
-      On Automatic creation
-        Uses
-            Creative techniques
-            Strategic planning
-            Argument mapping
-    Tools
-      Pen and paper
-      Mermaid
-```
-
-```plantuml {scale: 0.7}
-@startuml
-
-package "Some Group" {
-  HTTP - [First Component]
-  [Another Component]
-}
-
-node "Other Groups" {
-  FTP - [Second Component]
-  [First Component] --> FTP
-}
-
-cloud {
-  [Example 1]
-}
-
-database "MySql" {
-  folder "This is my folder" {
-    [Folder 3]
+<style>
+  ul {
+    font-size: 18pt;
   }
-  frame "Foo" {
-    [Frame 4]
-  }
-}
-
-[Another Component] --> [Example 1]
-[Example 1] --> [Folder 3]
-[Folder 3] --> [Frame 4]
-
-@enduml
-```
-
-</div>
-
----
-
-## Tips
-
-***
-
-The <span v-mark.red><code>code</code> directive</span>
-also allows you to add
-<span v-mark.circle.orange>inline marks</span>
-, powered by [Link](https://roughnotation.com/)
-
-<logos-java class="text-7xl m-3 absolute right-20" />
+</style>
 
 ---
 layout: center
@@ -229,4 +228,6 @@ hideInToc: true
 
 # End
 
-<PoweredBySlidev mt-10 />
+Thank you for listening!
+
+[キャンプ場で焚き火を囲んでLT会](https://kaitou.connpass.com/event/363314/) 来てね！

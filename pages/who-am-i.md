@@ -16,10 +16,17 @@ hideInToc: true
 <br>
 
 - <mdi-account-circle /> **Name** - kazu_kichi_67
-- <carbon-book /> **Language** - Java (, Kotlin, Swift, PHP, C++)
-- <carbon-bookmark /> **Skill** - Registered Scrum Master
-- <carbon-bar /> **Hobby** - フットサル, スノボ, 爬虫類, キャンプ, サウナ, ウイスキー, クラフトビール
-- <carbon-activity /> **Interest** - Agile, DDD, Architecture, etc..
+- 前職は中堅独立系SIerで12年エンジニア
+- エンジニア/EMロール で転職活動を開始
+- 今年の4月から事業会社でテクニカルPdM
 
 </div>
 </div>
+
+<br>
+
+<v-click>
+
+### 今日の話をきっかけに、皆さんのキャリアの選択肢の一つとしてPdMが加われば嬉しいです
+
+</v-click>
