@@ -95,15 +95,11 @@ hideInToc: true
 
 ### 責務
 
-<v-clicks>
-
 - ゆりかごから墓場まで
   - BizDev, Designer, Engineer, Marketing, Sales
 - 短期的な売り上げと中長期的な成長のバランス
 - 各ロールの労働生産性を最大化
 - ビジョンを語り、ストーリーテリングをする
-
-</v-clicks>
 
 <style>
   ul {
@@ -128,24 +124,6 @@ hideInToc: true
 <!--
 - なるルートは3つ
 - それぞれの強みを活かしつつ、三角形を目指す
--->
-
----
-
-## Engineering Manager
-
-***
-
-<br>
-
-<div>
-<img src="/engineering-manager.png" class="w-[50%] ml-[10%]"/>
-</div>
-
-参考文献: [エンジニアリングマネージャ/プロダクトマネージャのための知識体系と読書ガイド](https://qiita.com/hirokidaichi/items/95678bb1cef32629c317)
-
-<!--
-- 軸足の置き方、濃淡の違い
 -->
 
 ---
@@ -207,7 +185,7 @@ hideInToc: true
 - 仕組み化、省力化、委譲
   - タスクを持ち続けるとパンクする
 - ビジネス理解
-  - 事業のレバーは何か？
+  - 事業成長のレバーは何か？
   - なんの数値を追うべきか？
   - ROIが見合うか？
 

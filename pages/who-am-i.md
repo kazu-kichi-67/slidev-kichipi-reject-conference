@@ -17,7 +17,7 @@ hideInToc: true
 
 - <mdi-account-circle /> **Name** - kazu_kichi_67
 - 前職は中堅独立系SIerで12年エンジニア
-- エンジニア/EMロール で転職活動を開始
+- エンジニア or Engineering Manager で転職活動を開始
 - 今年の4月から事業会社でテクニカルPdM
 
 </div>
