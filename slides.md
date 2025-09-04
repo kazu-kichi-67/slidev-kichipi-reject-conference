@@ -78,6 +78,11 @@ layout: section
   }
 </style>
 
+<!--
+- 深化と探索
+- コアバリュー
+-->
+
 ---
 hideInToc: true
 ---
@@ -94,7 +99,6 @@ hideInToc: true
 
 - ゆりかごから墓場まで
   - BizDev, Designer, Engineer, Marketing, Sales
-- プロダクトに一本筋を通す
 - 短期的な売り上げと中長期的な成長のバランス
 - 各ロールの労働生産性を最大化
 - ビジョンを語り、ストーリーテリングをする
@@ -121,6 +125,10 @@ hideInToc: true
 
 参考文献: [プロダクトマネジメントトライアングルと各社の PM の職責と JD](https://tumada.medium.com/product-management-triangle-job-description-d18d1855ef65)
 
+<!--
+- なるルートは3つ
+- それぞれの強みを活かしつつ、三角形を目指す
+-->
 
 ---
 
@@ -135,6 +143,10 @@ hideInToc: true
 </div>
 
 参考文献: [エンジニアリングマネージャ/プロダクトマネージャのための知識体系と読書ガイド](https://qiita.com/hirokidaichi/items/95678bb1cef32629c317)
+
+<!--
+- 軸足の置き方、濃淡の違い
+-->
 
 ---
 layout: section
