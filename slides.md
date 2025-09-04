@@ -95,11 +95,11 @@ hideInToc: true
 
 ### 責務
 
-- ゆりかごから墓場まで
+- <span v-mark.red>ゆりかごから墓場まで</span>
   - BizDev, Designer, Engineer, Marketing, Sales
-- 短期的な売り上げと中長期的な成長のバランス
-- 各ロールの労働生産性を最大化
-- ビジョンを語り、ストーリーテリングをする
+- <span v-mark.red>短期的な売り上げと中長期的な成長のバランス</span>
+- <span v-mark.red>各ロールの労働生産性を最大化</span>
+- ビジョンを語り、<span v-mark.circle.orange>ストーリーテリング</span>をする
 
 <style>
   ul {
