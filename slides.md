@@ -152,7 +152,7 @@ hideInToc: true
 
 <br>
 
-<v-clicks depth="2">
+<v-clicks>
 
 - システム理解の深さ
   - フィジビリティ確認
